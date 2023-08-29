@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 style="text-align:center">
-Hi, I'm <a href="https://github.com/Abdi-01">Ilham</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi, I'm <a href="https://github.com/Ilhamhidayatulloh59">Ilham</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
 
@@ -11,7 +11,7 @@ Hi, I'm <a href="https://github.com/Abdi-01">Ilham</a> <img src="https://media.g
 <br/>
 <br/>
 
-I am a skilled JavaScript developer with a passion for building dynamic and interactive web applications. With several years of experience in front-end development, I have a solid understanding of JavaScript and its frameworks, such as React and Angular. I am proficient in HTML and CSS, which allows me to create visually appealing and responsive user interfaces.
+I am a skilled JavaScript developer with a passion for building dynamic and interactive web applications. With several years of experience in front-end development, I have a solid understanding of JavaScript and its frameworks, such as React and Next. I am proficient in HTML and CSS, which allows me to create visually appealing and responsive user interfaces.
 
 I enjoy working in agile development environments, collaborating with cross-functional teams to deliver high-quality software solutions. My expertise also extends to working with back-end technologies, such as Node.js and Express, enabling me to develop full-stack applications. I am continuously learning and staying up to date with the latest trends and best practices in JavaScript development.
 
